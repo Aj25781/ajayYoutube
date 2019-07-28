@@ -1,0 +1,25 @@
+.Header
+{
+    width:100%;
+    background-color:grey;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    height:50px;
+}
+.inputField{
+  margin:20px;   
+}
+input{
+     width:350px;
+     height:30px;
+}
+button{
+  height:30px;
+  text-align: center;
+    
+}
+.ui.button
+{
+    line-height: 0.5em;
+}
