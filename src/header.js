@@ -3,7 +3,7 @@ import './header.css';
 import axios from  'axios';
 import Homepage from './homepage';
 import { async } from 'q';
-import comment from './comment'
+
 class Header extends Component
 {
      constructor(props)
